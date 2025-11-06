@@ -1,2 +1,2 @@
-alert(`Date: ${new Date().toISOString()}`)
-alert(`url: ${window.location.href}`)
+console.log(`Date: ${new Date().toISOString()}`)
+console.info(`url: ${window.location.href}`)
